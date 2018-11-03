@@ -1,4 +1,4 @@
-package com.fantasy.che.springbootpro;
+package com.fantasy.qimingguicai;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringbootproApplicationTests {
+public class StartApplicationTests {
 
 	@Test
 	public void contextLoads() {
